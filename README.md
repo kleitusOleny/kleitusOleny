@@ -1,4 +1,7 @@
-## Hi there 👋
+## 👋 Hi there!!  ✨ Im Oleny Developer ✨
+
+# 🔭 I’m currently study on Nong Lam University
+# 🌱 I’m currently learning JavaScript
 
 <!--
 **kleitusOleny/kleitusOleny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
