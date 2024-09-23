@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </div>
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="auto">⚡ Stats ⚡</h2>
 <br>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kleitusOleny&theme=dark)](https://git.io/streak-stats)
