@@ -1,9 +1,10 @@
-# 👋 Hi there!!  ✨ Im Oleny Developer ✨
+<!-- # 👋 Hi there!!  ✨ Im Oleny Developer ✨
 
 ## 🔭 I’m currently study on Nong Lam University
-## 🌱 I’m currently learning JavaScript
+## 🌱 I’m currently learning JavaScript -->
 
 <!--
+
 **kleitusOleny/kleitusOleny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,3 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Oleny!;" />
+</h1>
