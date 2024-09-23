@@ -30,4 +30,5 @@ Here are some ideas to get you started:
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kleitusOleny&theme=dark)](https://git.io/streak-stats)
