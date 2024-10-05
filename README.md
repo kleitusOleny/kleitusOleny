@@ -40,3 +40,6 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kleitusOleny&theme=dark)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kleitusOleny&show_icons=true&theme=radical)
+
+<h2 align="center">⚡ GitHub Trophies ⚡</h2>
+![](https://github-profile-trophy.vercel.app/?username=kleitusOleny&theme=default&no-frame=true&no-bg=false&margin-w=4)
