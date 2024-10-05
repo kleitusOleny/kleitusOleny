@@ -41,5 +41,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kleitusOleny&show_icons=true&theme=radical)
 
-<h2 align="center">⚡ GitHub Trophies ⚡</h2>
-![](https://github-profile-trophy.vercel.app/?username=kleitusOleny&theme=default&no-frame=true&no-bg=false&margin-w=4)
+----------------------------------
+[![](https://visitcount.itsvg.in/api?id=kleitusOleny&icon=0&color=10)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
