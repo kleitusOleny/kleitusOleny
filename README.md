@@ -7,7 +7,7 @@
     <br/>
 🔭 I’m currently study on Nong Lam University
     <br/>
-🌱 I’m currently learning JavaScript
+🌱 I’m currently learning Java
 </h1>
 
  <br/><br/><br/>
